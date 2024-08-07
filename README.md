@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/improvement-concept-illustration-idea-success-growth-profit_613284-1642.jpg?w=1380&t=st=1723048222~exp=1723048822~hmac=43427b26fa926c0852454d0b1bff42b15ffa162be6b7e90ae58194a9f1389465)]
+
 <h1 align="center">Hi 👋, I'm Dinesh Arekar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 
 
